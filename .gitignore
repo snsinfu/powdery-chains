@@ -1,0 +1,9 @@
+.*
+!.gitignore
+!.gitmodules
+
+*.o
+*.h5
+Untitled*.ipynb
+
+/main
